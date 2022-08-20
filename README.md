@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Anjani1598/Anjani1598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Anjani vara prasad, An aspiring full-stack developer with a specialization in MERN stack with a passion for learning with an endless supply of optimism and curiosity.
 
 Here are some ideas to get you started:
 
