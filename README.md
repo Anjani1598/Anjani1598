@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, I'm Anjani vara prasad, An aspiring full-stack developer with a specialization inJ AVA with a passion for learning with an endless supply of optimism and curiosity.
+Hi, I'm Anjani vara prasad, An aspiring full-stack developer with a specialization in JAVA with a passion for learning with an endless supply of optimism and curiosity.
 
 I am an analytical, detail-oriented, results-driven graduate, passionate about Web development, and am skilled with MERN Stack and other development tools. Self-determined and curious about building products.
 
