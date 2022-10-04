@@ -1,41 +1,77 @@
-
- <img align="right" alt="Coding" height="300" width="1000"  
- src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiBcG_jFGvzPQhC0kSq6xo9w9wygZwYhbcCQ&usqp=CAU">
- 
 <h1 align="center">Hi 👋, I'm Anjani Vara Prasad</h1>
-<h3 align="center">A Creative Java Backend Developer from India</h3>
+<h3 align="center">I am Aspiring Java BackEnd Developer</h3>
+<h3 align="center">I'm a Java BackEnd Developer with proficiency in Data Structures Algorithms, Java, Spring, and Hibernate who enjoys making web application and learning new technology.</h3>
+<p align="center" ><img width="80%" src="https://miro.medium.com/max/1400/0*FGD6BUzzZs1VJLuY.gif" /></p>
 
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif">
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Anjani1598&label=Profile%20views&color=0e75b6&style=flat" alt="Anjani1598" /> </p> -->
+<img src="./thoughtworks-gif_dribbble-readme-photo.gif" height=290px align="right" />
 
-- 🌱 I’m currently learning **Java,Hibernate,Spring,SQL,Maven,DSA,HTML,CSS,JavaScript.**
+* 🌍  I'm based in Hyderabad
+* 💬  My portfolio is [https://snehasingh-portfolio.netlify.app/]
+* 💬  My resume is [https://drive.google.com/file/d/1Z10jU8JX9OEPos5jveulySZJWTfmcd-w/view?usp=sharing]
+* ✉️  You can contact me at [anjanivaraprasads@gmail.com](mailto:sneha052020@gmail.com)
+* 🤔  I’m looking for help with `Competitive Programming`
+* ⚡  I like interacting with new people and explore the world.
+* 💬  Ask me about `Coding`, `Frontend`, `Backend`,  `DSA`,  `Web`,  `softwaredevelopment`
 
-- 👯 I’m looking to collaborate on **Developing Highly Secured Payment App.**
 
-- 💬 Ask me about **Java,Maven,Hibernate,DSA**
 
-- 📫 How to reach me **anjanivaraprasads@gmail.com**
+<br/>
+ 🛠️ Tech Stack and FrameWorks:
 
-- 📄Portfolio link https://Anjani1598.github.io/rakeshdb35portfolio.github.io/
-
-- ⚡ Fun fact **What ever the situvation i tried to be calm and explore the Happiness**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anjani-93348519a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anjani" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/rakeshdb rak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rakeshdb rak" height="30" width="40" /></a>
-<a href="https://instagram.com/rakeshdb rak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rakeshdb rak" height="30" width="40" /></a> -->
-<a href="https://www.hackerrank.com/fw18_0838" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Anjani" height="30" width="40" /></a>
-<a href="https://leetcode.com/anjanivaraprasads/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Anjani" height="30" width="40" /></a>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
+<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
+<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
+<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
+<img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25px"/>
+ <img alt="Express" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" height="25px"/>
+
+<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
+<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
+ <img alt="Github" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" height="25px"/>
+ <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" height="25px"/>
+ <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
+ <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify" height="25px"/>
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel" height="25px"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anjani1598&show_icons=true&locale=en&layout=compact" alt="Anjani1598" /></p>
+### Connect with me:
+<div align="left">
+ 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anjani1598&show_icons=true&locale=en" alt="Anjani1598" /></p>
+ 
+<a href="https://www.linkedin.com/in/sneha-sneha-a78233223" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sneha-" height="30" width="40" /></a>
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anjani1598&" alt="Anjani1598" /></p>
+
+ 
+</div>
+
+
+### ⚙️ &nbsp;GitHub Stats
+ <hr>
+<div display="inline">
+<!-- <a href="http://www.github.com/Anjani1598"> -->
+ <img src="https://github-readme-stats.vercel.app/api?username=Anjani1598&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&show_icons=true" alt="Anjani1598's GitHub stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anjani1598&stroke=ffffff&background=365314&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+ </div>
+
+<a href="http://www.github.com/Anjani1598"><img src="https://activity-graph.herokuapp.com/graph?username=Anjani1598&bg_color=365314&color=ffffff&line=ef4444&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<!-- <a href="https://github.com/Aadi0706" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anjani1598&langs_count=10&title_color=facc15&text_color=ffffff&icon_color=ef4444&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> -->
+
+<!-- ### 🏆 GitHub Profile Trophy:
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=Anjani1598&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
+![](https://github.com/Anjani1598/prajaktahadole/blob/main/imgs/bottom_header.svg) -->
