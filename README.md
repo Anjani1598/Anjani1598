@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in Hyderabad
 * 💬  My portfolio is [https://anjani-personal-portfolio.netlify.app/]
-* 💬  My resume is [https://drive.google.com/file/d/192kNdbfvnfZZd42oIsqGbjv-JN_Zvd6b/view?usp=sharing]
+* 💬  My resume is [https://drive.google.com/file/d/1XD8G87R8XBfK16o5xEspwKOt2Et8FrWx/view?usp=share_link]
 * ✉️  You can contact me at [anjanivaraprasads@gmail.com](mailto:sneha052020@gmail.com)
 * 🤔  I’m looking for help with `Competitive Programming`
 * ⚡  I like interacting with new people and explore the world.
